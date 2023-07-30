@@ -1,6 +1,8 @@
 //package com.sp;
 import java.util.Scanner;
 
+// Dt:- 31/07/2023
+
 class ArmNum {
     void show(int n) {
         int num = n; // Store the original value of n in num
