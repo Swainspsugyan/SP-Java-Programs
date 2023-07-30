@@ -1,0 +1,23 @@
+
+class even
+{
+	void evenOdd (int x) {
+		if( x % 2 == 0)
+		{
+			System.out.println("This numbner is Even");
+		}
+		else
+			System.out.println("The number is Odd");
+	}
+}
+public class EvenOdd {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		even e = new even();
+		e.evenOdd(5);
+		e.evenOdd(6);
+		
+	}
+
+}
