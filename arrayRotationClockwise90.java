@@ -66,11 +66,6 @@ public class arrayRotationClockwise90 {
 			}
 			System.out.println();
 		}
-	}
-	
-	
-	
-	
+	}	
   }
-
 }
